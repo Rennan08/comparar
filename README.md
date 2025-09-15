@@ -1,1 +1,0 @@
-# comparar.py
