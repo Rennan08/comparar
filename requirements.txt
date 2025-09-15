@@ -1,0 +1,17 @@
+insightface==0.7.3
+onnxruntime==1.17.3
+opencv-python==4.10.0.84
+albumentations==1.4.8
+numpy==1.26.4
+scikit-learn==1.5.2
+scikit-image==0.24.0
+matplotlib==3.8.4
+scipy==1.12.0
+pillow==10.3.0
+prettytable==3.10.0
+easydict==1.13
+cython==3.0.9
+tqdm==4.66.2
+coloredlogs==15.0.1
+humanfriendly==10.0
+PyYAML==6.0.2
