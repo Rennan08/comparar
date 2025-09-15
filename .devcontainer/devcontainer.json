@@ -1,0 +1,12 @@
+{
+  "name": "face-compare",
+  "dockerFile": "Dockerfile",
+  "features": {},
+  "forwardPorts": [],
+  "postCreateCommand": "python -m pip install --upgrade pip setuptools wheel && pip install --prefer-binary -r requirements.txt",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python", "ms-python.vscode-pylance"]
+    }
+  }
+}
